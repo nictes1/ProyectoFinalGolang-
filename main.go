@@ -3,9 +3,8 @@ package main
 import (
 	"log"
 
-	import 
-		"microblog/bd"
-		"microblog/handlers"
+	"microblog/bd"
+	"microblog/handlers"
 )
 
 func main() {
