@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"microblog/bd"
-	"microblog/handlers"
+	"github.com/nictes1/FinalProjectGO/bd"
+	"github.com/nictes1/FinalProjectGO/handlers"
 )
 
 func main() {
