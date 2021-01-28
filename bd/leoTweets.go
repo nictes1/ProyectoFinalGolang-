@@ -55,7 +55,6 @@ func LeoTweets(ID string, pagina int64) ([]*models.DevuelvoTweets, bool) {
 		return resultados, false
 	}
 
-
 	// Si todo anduvo bien debo recorrer todos los documentos que encontró
 	// el ciclo lo hago con FOR
 	// Uso un nuevo contexto vacío para trabajar en él
