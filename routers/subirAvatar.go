@@ -5,7 +5,8 @@ import (
 	"net/http"
 	"os"
 	"strings"
-	"github.com/nictes1/FinalProjectGO/"github.com/lutrueba/microblog/bd"
+
+	"github.com/nictes1/FinalProjectGO/bd"
 	"github.com/nictes1/FinalProjectGO/models"
 )
 
